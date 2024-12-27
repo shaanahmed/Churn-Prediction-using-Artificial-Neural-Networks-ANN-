@@ -47,15 +47,17 @@ Training:
 Epochs: 30
 Validation split: 20% of training data
 Model Summary:
+
 Total Parameters: 456
+
 Evaluation:
 Training Results:
 Accuracy during training reached approximately 82.45%.
-Validation accuracy and loss were plotted.
-Testing Results:
-Achieved a test accuracy of 79.75%.
-Visualization:
-Loss and accuracy trends during training were visualized for better understanding of model performance.
+
+]Validation accuracy and loss were plotted.
+Testing Results:Achieved a test accuracy of 79.75%.
+
+Visualization:Loss and accuracy trends during training were visualized for better understanding of model performance.
 
 Key Insights:
 The model performs reasonably well in predicting churn, with further potential for improvement through hyperparameter tuning and feature engineering.
